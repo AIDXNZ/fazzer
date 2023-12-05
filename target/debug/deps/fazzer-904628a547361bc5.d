@@ -1,6 +1,6 @@
-/home/zdroid/Documents/Programming/fazzer/target/debug/deps/fazzer-904628a547361bc5: src/main.rs
+/home/zdroid/Documents/Pentesting/fazzer/target/debug/deps/fazzer-904628a547361bc5: src/main.rs
 
-/home/zdroid/Documents/Programming/fazzer/target/debug/deps/fazzer-904628a547361bc5.d: src/main.rs
+/home/zdroid/Documents/Pentesting/fazzer/target/debug/deps/fazzer-904628a547361bc5.d: src/main.rs
 
 src/main.rs:
 
